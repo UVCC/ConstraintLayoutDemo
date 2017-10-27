@@ -8,5 +8,7 @@ class CLDMainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_cld_main)
+
+        println("test")
     }
 }
