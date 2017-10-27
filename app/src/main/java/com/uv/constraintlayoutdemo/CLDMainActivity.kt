@@ -9,6 +9,6 @@ class CLDMainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_cld_main)
 
-        println("test")
+        println("test 2")
     }
 }
